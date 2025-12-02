@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like working on projects and not commit <br><br>🔭 I’m currently working on a thesis project<br>👯 I like working on random projects<br>🌱 I’m currently learning machine learning <br>
+I like working on projects and not commit <br><br>🔭 I’m currently working on A Community-Powered Transportation Guide<br>👯 I like working on random projects<br>🌱 I’m currently learning machine learning <br>
 
 
 # 💻 Tech Stack:
